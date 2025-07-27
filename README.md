@@ -19,7 +19,7 @@ A Vue.js application built with Vite, Pinia, and TypeScript to explore character
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/diogoplima/rick-and-morty-api.git
 cd rick-and-morty-api
 ```
 
