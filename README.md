@@ -48,6 +48,10 @@ For watch mode:
 ```bash
 npm run test:watch
 ```
+For test coverage:
+```bash
+npm run test:coverage
+```
 
 ## Project Structure
 - `src/components/`: Vue components.
